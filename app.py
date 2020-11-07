@@ -6,7 +6,7 @@ slide2 = '(^_~)'
 slide3 = '(^_^)'
 slide4 = '(о_О)'
 slide5 = '(O_O)'
-slide6 = 'Hello, World'
+slide6 = 'Привет, World!'
 
 time.sleep(1)
 print(slide1, end='\r')
